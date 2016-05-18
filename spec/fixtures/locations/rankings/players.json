@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "tag": "#8YJ29L9V",
+      "name": "CN.one小雪",
+      "expLevel": 157,
+      "trophies": 5889,
+      "attackWins": 193,
+      "defenseWins": 9,
+      "rank": 1,
+      "previousRank": 2,
+      "clan": {
+        "tag": "#YJLY82QG",
+        "name": "大唐天子",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png"
+        }
+      },
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      }
+    },
+    {
+      "tag": "#J88PYR0Y",
+      "name": "宣༒༒轩",
+      "expLevel": 159,
+      "trophies": 5873,
+      "attackWins": 198,
+      "defenseWins": 6,
+      "rank": 2,
+      "previousRank": 1,
+      "clan": {
+        "tag": "#YJLY82QG",
+        "name": "大唐天子",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png"
+        }
+      },
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      }
+    },
+    {
+      "tag": "#2Y9JCV9G",
+      "name": "哪青",
+      "expLevel": 195,
+      "trophies": 5855,
+      "attackWins": 176,
+      "defenseWins": 9,
+      "rank": 3,
+      "previousRank": 3,
+      "clan": {
+        "tag": "#YJLY82QG",
+        "name": "大唐天子",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png"
+        }
+      },
+      "league": {
+        "id": 29000022,
+        "name": "Legend League",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/R2zmhyqQ0_lKcDR5EyghXCxgyC9mm_mVMIjAbmGoZtw.png"
+        }
+      }
+    }
+  ]
+}

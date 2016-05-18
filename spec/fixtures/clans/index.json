@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "tag": "#L8VU0VR9",
+      "name": "念婷",
+      "type": "closed",
+      "location": {
+        "id": 32000056,
+        "name": "China",
+        "isCountry": true,
+        "countryCode": "CN"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+      },
+      "warFrequency": "never",
+      "clanLevel": 1,
+      "warWins": 0,
+      "warWinStreak": 0,
+      "clanPoints": 494,
+      "requiredTrophies": 0,
+      "members": 1
+    },
+    {
+      "tag": "#2QJRPRJ",
+      "name": "笨猪的家",
+      "type": "closed",
+      "location": {
+        "id": 32000056,
+        "name": "China",
+        "isCountry": true,
+        "countryCode": "CN"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/Rm5IL0m9gJoDJLsBbYvN-5I29arDxc-hZPnO93NY1QM.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/Rm5IL0m9gJoDJLsBbYvN-5I29arDxc-hZPnO93NY1QM.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/Rm5IL0m9gJoDJLsBbYvN-5I29arDxc-hZPnO93NY1QM.png"
+      },
+      "warFrequency": "never",
+      "clanLevel": 1,
+      "warWins": 0,
+      "warWinStreak": 0,
+      "clanPoints": 604,
+      "requiredTrophies": 2400,
+      "members": 1
+    },
+    {
+      "tag": "#LYRVCP8U",
+      "name": "至上",
+      "type": "inviteOnly",
+      "location": {
+        "id": 32000056,
+        "name": "China",
+        "isCountry": true,
+        "countryCode": "CN"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/kcfUF9m9ltFGXJYcNNX-6ZYSUAUMUricZTPrRrTUFLE.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/kcfUF9m9ltFGXJYcNNX-6ZYSUAUMUricZTPrRrTUFLE.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/kcfUF9m9ltFGXJYcNNX-6ZYSUAUMUricZTPrRrTUFLE.png"
+      },
+      "warFrequency": "oncePerWeek",
+      "clanLevel": 1,
+      "warWins": 0,
+      "warWinStreak": 0,
+      "clanPoints": 2210,
+      "requiredTrophies": 0,
+      "members": 4
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}

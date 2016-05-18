@@ -1,0 +1,45 @@
+{
+  "tag": "#L8VU0VR9",
+  "name": "念婷",
+  "type": "closed",
+  "description": "你只需要放下心中那一点点的温软，从此之后坚硬如铁。",
+  "location": {
+    "id": 32000056,
+    "name": "China",
+    "isCountry": true,
+    "countryCode": "CN"
+  },
+  "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+  },
+  "warFrequency": "never",
+  "clanLevel": 1,
+  "warWins": 0,
+  "warWinStreak": 0,
+  "clanPoints": 494,
+  "requiredTrophies": 0,
+  "members": 1,
+  "memberList": [
+    {
+      "tag": "#P29CVU9J",
+      "name": "rt",
+      "role": "leader",
+      "expLevel": 25,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "trophies": 989,
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 0,
+      "donationsReceived": 0
+    }
+  ]
+}

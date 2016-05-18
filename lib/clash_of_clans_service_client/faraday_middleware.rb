@@ -1,0 +1,2 @@
+require 'clash_of_clans_service_client/faraday_middleware/custom_parse'
+require 'clash_of_clans_service_client/faraday_middleware/my_authentication_token'

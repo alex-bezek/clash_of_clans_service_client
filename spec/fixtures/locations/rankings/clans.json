@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "tag": "#YJLY82QG",
+      "name": "大唐天子",
+      "location": {
+        "id": 32000056,
+        "name": "China",
+        "isCountry": true,
+        "countryCode": "CN"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/PohuJRtvUVk1Z6BiUpmChwN6pk3QF61fffRbTT9a4kI.png"
+      },
+      "clanLevel": 7,
+      "members": 50,
+      "clanPoints": 56817,
+      "rank": 1,
+      "previousRank": 1
+    },
+    {
+      "tag": "#28Q0JUVQ",
+      "name": "天狼星—狼烟再起",
+      "location": {
+        "id": 32000056,
+        "name": "China",
+        "isCountry": true,
+        "countryCode": "CN"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/eQq26LjrACyM77W8y8C74y0rOFYM8V_C9vhaq_xDYRU.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/eQq26LjrACyM77W8y8C74y0rOFYM8V_C9vhaq_xDYRU.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/eQq26LjrACyM77W8y8C74y0rOFYM8V_C9vhaq_xDYRU.png"
+      },
+      "clanLevel": 8,
+      "members": 50,
+      "clanPoints": 54009,
+      "rank": 2,
+      "previousRank": 2
+    },
+    {
+      "tag": "#CP89GQ9",
+      "name": "中国缘",
+      "location": {
+        "id": 32000056,
+        "name": "China",
+        "isCountry": true,
+        "countryCode": "CN"
+      },
+      "badgeUrls": {
+        "small": "https://api-assets.clashofclans.com/badges/70/z8kAOLoy_BgEViLdpjHTiUkaKdzWEbm7t_A6FTL_Jm4.png",
+        "large": "https://api-assets.clashofclans.com/badges/512/z8kAOLoy_BgEViLdpjHTiUkaKdzWEbm7t_A6FTL_Jm4.png",
+        "medium": "https://api-assets.clashofclans.com/badges/200/z8kAOLoy_BgEViLdpjHTiUkaKdzWEbm7t_A6FTL_Jm4.png"
+      },
+      "clanLevel": 9,
+      "members": 50,
+      "clanPoints": 53470,
+      "rank": 3,
+      "previousRank": 3
+    }
+  ]
+}

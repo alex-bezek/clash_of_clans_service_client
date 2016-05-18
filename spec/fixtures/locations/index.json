@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": 32000003,
+      "name": "Asia",
+      "isCountry": false
+    },
+    {
+      "id": 32000056,
+      "name": "China",
+      "isCountry": true,
+      "countryCode": "CN"
+    }
+  ]
+}
